@@ -15,3 +15,7 @@ cancer['feature_names']
 
 In[6]
 len(cancer['feature_names'])
+
+In[7]
+import numpy as np
+import pandas as pd
